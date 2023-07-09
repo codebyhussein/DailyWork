@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577862537064",
+    "project_id": "hussein-app-f8116",
+    "storage_bucket": "hussein-app-f8116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577862537064:android:edf0a56a6494b0f16d50dd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_basic1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577862537064-r9oahdpof2sado3pmouv6bjkb7flbs2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjpzyFXsN0nNzCcNsWgcSlFKQgBeGEKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577862537064-r9oahdpof2sado3pmouv6bjkb7flbs2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
